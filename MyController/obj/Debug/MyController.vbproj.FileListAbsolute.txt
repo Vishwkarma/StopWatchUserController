@@ -1,0 +1,11 @@
+D:\Winform\MyController\bin\Debug\MyController.dll
+D:\Winform\MyController\bin\Debug\MyController.pdb
+D:\Winform\MyController\bin\Debug\MyController.xml
+D:\Winform\MyController\obj\Debug\MyController.vbproj.AssemblyReference.cache
+D:\Winform\MyController\obj\Debug\MyController.Resources.resources
+D:\Winform\MyController\obj\Debug\MyController.vbproj.GenerateResource.cache
+D:\Winform\MyController\obj\Debug\MyController.vbproj.CoreCompileInputs.cache
+D:\Winform\MyController\obj\Debug\MyController.dll
+D:\Winform\MyController\obj\Debug\MyController.xml
+D:\Winform\MyController\obj\Debug\MyController.pdb
+D:\Winform\MyController\obj\Debug\MyController.MyWatch.resources
